@@ -4,7 +4,7 @@ metadata:
   name: doc_ms_cliente
   annotations:
     github.com/project-slug: alvesluiz23/doc_ms_cliente
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir:./docs
 spec:
   type: other
   lifecycle: unknown
