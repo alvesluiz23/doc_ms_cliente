@@ -4,7 +4,7 @@ metadata:
   name: example
   description: example.com
   annotations:
-    backstage.io/techdocs-ref: dir:./docs
+    backstage.io/techdocs-ref: dir:.s
 spec:
   type: website
   lifecycle: production
