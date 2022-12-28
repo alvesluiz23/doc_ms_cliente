@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: doc_ms_cliente
+  annotations:
+    github.com/project-slug: alvesluiz23/doc_ms_cliente
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Cerc
