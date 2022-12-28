@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example
-  description: example.com
+  name: Api cerc
+  description: Api de consulta e alteração de dados de usuários
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
