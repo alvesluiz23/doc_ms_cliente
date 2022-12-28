@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Api
 metadata:
   name: Api cerc
   description: Api de consulta e alteração de dados de usuários
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
-  type: website
+  type: Api
   lifecycle: production
-  owner: user:guest
+  owner: user:Luiz
